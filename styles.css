@@ -16,5 +16,5 @@
 .brand-logo{display:block;width:64px;height:64px;object-fit:cover;object-position:center;background:#fff;border-radius:50%}
 @media(max-width:760px){.brand-logo{width:54px;height:54px}}
 
-.art-logo{position:relative;z-index:1;display:block;width:230px;height:230px;object-fit:cover;border-radius:50%;background:#fff;border:1px solid rgba(26,95,62,.25);box-shadow:0 18px 45px rgba(26,95,62,.14)}
+.art-logo{position:relative;z-index:1;display:block;width:230px;height:230px;object-fit:cover;border-radius:50%;background:transparent}
 @media(max-width:470px){.art-logo{width:170px;height:170px}}
